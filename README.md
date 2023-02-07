@@ -1,1 +1,1 @@
-My first readme
+day 2 of actual project
